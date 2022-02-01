@@ -1,3 +1,11 @@
+# Welcome to the Pixabay Search App
+
+This app was made by Marin Bouanchaud with React and Create React App.
+
+## Code format
+
+See /.prettierrc for code format guidelines.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
